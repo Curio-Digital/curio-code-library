@@ -4,6 +4,10 @@ A starter template for both Client & Power projects.
 
 Before starting to work with this template, please take some time to read through the documentation.
 
+### Claude Code Session ID
+
+`claude --resume 87567717-26ae-47af-9ccc-412f6f5e78e2`
+
 ## Reference
 
 - [Included tools](#included-tools)
